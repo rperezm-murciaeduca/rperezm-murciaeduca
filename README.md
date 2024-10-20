@@ -3,7 +3,7 @@
 
 ## Centro Integral de Formación Profesional a Distancia ["La Conservera"][6] - Región de Murcia .
 ***
-### Asiganturas que curso en la actualidad
+### Asignaturas que cursó en la actualidad
 - Sistemas informáticos.
 - Bases de datos.
 - Programación.
@@ -15,11 +15,11 @@
 
 ***
 ### Tecnologías que vamos a utilizar este año ***(entre otras)***
-| Stack Tecnologico | Framework | Herramientas de desarrrollo |
+| Stack Tecnológico | Framework | Herramientas de desarrollo |
 | :---:|:---:|:---:|
 |Java| JDK | Eclipse <br> Spring <br> VSCode|
-|SQL| PostegreSQL <br> MySql <br> MariaDB <br> Etc | Mysql Bench <br> HeidiSQL|
-| Java Script | Angular <br> React <br> Vue | Laragon <br> Wamp/Xamp |
+|SQL| PostgreSQL <br> MySql <br> MariaDB <br> Etc | Mysql Bench <br> HeidiSQL|
+| Javascript | Angular <br> React <br> Vue | Laragon <br> Wamp/Xamp |
 | Maquinas Virtuales | VM Ware <br> VirtualBox| |
 
 ### Mis labores
@@ -28,7 +28,7 @@
 -  :mortar_board:  Estudiante de 1º de DAW a distancia
 -  :+1: Freelance en marketing digital y desarrollo web con Wordpress, Prestashop o Shopify
 ### Mis Objetivos 
-- Convertirme en desarrollador fullstack
+- Convertirse en desarrollador full stack
 - Explorar nuevas experiencias de Usuarios
 - Crear plugins para wordpress propios y extensiones de Chrome para resolver problemas de Marketing Digital
 - Crear un programa de gestión propio para mis clientes que este altamente automatizado pero sin dependencias de servicios de terceros como Zapier o Make
@@ -62,7 +62,7 @@
     - ¡GRATIS!
     - Con extensiones super utiles
 - [Anaconda][3] Imprescindible para Python
-- [MySQL][4] Sin ella no sabria trabajar
+- [MySQL][4] Sin ella no sabría trabajar
 - [PowerBI][5] Para informes es genial
   
 
@@ -76,4 +76,5 @@ Enlaces
 [4]:https://www.mysql.com/ 
 [5]:https://www.microsoft.com/es-es/power-platform/products/power-bi 
 [6]:https://sites.google.com/view/fplaconservera
+
 
